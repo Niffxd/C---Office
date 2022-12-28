@@ -8,7 +8,7 @@ It presents the challenge of creating a system of **cancellations**, **registrat
 The objective is to be able to reinforce and apply the knowledge provided in the matter during the course.
 It allows to communicate through a **terminal** in a **dynamic**, **interactive** and **detailed** way so that any user can use it, being able to **validate each possible entry** as the user navigates between the systems.
 
-## Build with
+## Built with
 [![Dev-C++ - 5.11 TDM-GCC Release](https://img.shields.io/badge/Dev--C%2B%2B-5.11_TDM--GCC_Release-117ACA?style=for-the-badge&logo=C%2B%2B&logoColor=%23117ACA)](https://www.bloodshed.net/)
 
 ## How to use
