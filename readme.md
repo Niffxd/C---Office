@@ -21,26 +21,37 @@ It is mainly based on registration, providing access to register doctors, employ
 
 Its functions:
 
-   - Register doctors: 👩🏻‍⚕️🧑🏻‍⚕️👨🏻‍⚕️
+   - #### Register doctors: 👩🏻‍⚕️🧑🏻‍⚕️👨🏻‍⚕️
+
     • Name
     • Lastname
     • Specialty
     • Days and hours of work, (Monday to Saturday)
     • Medical Licence (will serve as user)
     • Password (to be able to access the consultation system)
-   - Register employees (receptionists): 👩🏻‍🔬🧑🏻‍🔬👨🏻‍🔬
+
+   - #### Register employees (receptionists): 👩🏻‍🔬🧑🏻‍🔬👨🏻‍🔬
+
     • Name
     • Lastname
     • User
     • Password
-   - Register social works: ⚕️
+
+   - #### Register social works: ⚕️
+
     • Name
     • Price
-   - See medical settlements:
+
+   - #### See medical settlements:
+
     • It allows you to see how much each doctor should be paid. 💵
-   - Employee with the highest number of records (patient registrations):
+
+   - #### Employee with the highest number of records (patient registrations):
+
     • There is a bonus which is earned by the employee with the most records! 🥳
-   - Exit. ❎
+
+   - #### Exit. ❎
+
     • Exit of the actual system.
 
 **Reception**:
@@ -50,10 +61,13 @@ If you do not identify yourself, the system will not allow you to carry out acti
 
 Its functions: 
 
-   - Log in: 👩🏻‍🔬🧑🏻‍🔬👨🏻‍🔬
+   - #### Log in: 👩🏻‍🔬🧑🏻‍🔬👨🏻‍🔬
+
     • User
     • Password
-   - Register Patient: 🙍🏻‍♀️🙍🏻🙍🏻‍♂️
+
+   - #### Register Patient: 🙍🏻‍♀️🙍🏻🙍🏻‍♂️
+
     • Name
     • Lastname
     • Age
@@ -64,11 +78,17 @@ Its functions:
     • Home
     • City
     • Social work to be agreed with their respective prices
-   - Register Medical Appointment: 📝
+
+   - #### Register Medical Appointment: 📝
+
     • Preview of Doctors available according to day and time
-   - List of Attentions: 📅
+
+   - #### List of Attentions: 📅
+
     • Appointments history
-   - Exit. ❎
+
+   - #### Exit. ❎
+
     • Exit of the actual system.
 
 **Consulting room**:
@@ -80,20 +100,25 @@ If you do not identify yourself, the system will not allow you to carry out acti
 
 Its functions:
 
-   - Log in: 👩🏻‍⚕️🧑🏻‍⚕️👨🏻‍⚕️
+   - #### Log in: 👩🏻‍⚕️🧑🏻‍⚕️👨🏻‍⚕️
+
     • Medical License
     • Password
-   - Call patient: 🙍🏻‍♀️🙍🏻🙍🏻‍♂️
+
+   - #### Call patient: 🙍🏻‍♀️🙍🏻🙍🏻‍♂️
+
     • Name
     • Lastname
-   - Exit. ❎
+
+   - #### Exit. ❎
+
     • Exit of the actual system.
 
 
-Each module generates its own database in ".dat" files to be able to obtain them later if necessary.
-The data will not be saved if the current operation is not completed successfully.
+*Each module generates its own database in ".dat" files to be able to obtain them later if necessary.
+The data will not be saved if the current operation is not completed successfully.*
 
-## Author and Support
+# Author and Support
 
 At the moment it is only available in Spanish, I am working on the translation and I will update it as soon as it is ready.
 
