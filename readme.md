@@ -8,13 +8,15 @@ It presents the challenge of creating a system of **cancellations**, **registrat
 The objective is to be able to reinforce and apply the knowledge provided in the matter during the course.
 It allows to communicate through a **terminal** in a **dynamic**, **interactive** and **detailed** way so that any user can use it, being able to **validate each possible entry** as the user navigates between the systems.
 
-## Build
+## Build with
 [![Dev-C++ - 5.11 TDM-GCC Release](https://img.shields.io/badge/Dev--C%2B%2B-5.11_TDM--GCC_Release-117ACA?style=for-the-badge&logo=C%2B%2B&logoColor=%23117ACA)](https://www.bloodshed.net/)
 
 ## How to use
 
 **Start**:
 Although it is not a module, it is the direct access at the beginning of the program to the other modules. It has a main menu which allows access to them.
+
+***
 
 **Administration**:
 It is mainly based on registration, providing access to register doctors, employees or receptionists, social works and being able to see the settlement of each previously registered doctor and who has attended at least one patient, as well as a surprise!
@@ -54,6 +56,8 @@ Its functions:
 
     • Exit of the actual system.
 
+***
+
 **Reception**:
 The only person authorized to use this system is the employee. It allows you to log in as long as you have previously registered.
 If the employee you want to enter is not registered, it will indicate an "Employee not registered" type error.
@@ -91,6 +95,8 @@ Its functions:
 
     • Exit of the actual system.
 
+***
+
 **Consulting room**:
 The only one authorized to use this system is the Doctor. It allows the doctor to log in with his registration as long as he has previously registered.
 If the license plate you want to enter is not registered, it will indicate an error of the type "License plate not registered".
@@ -113,6 +119,8 @@ Its functions:
    - #### Exit. ❎
 
     • Exit of the actual system.
+
+***
 
 
 *Each module generates its own database in ".dat" files to be able to obtain them later if necessary.
